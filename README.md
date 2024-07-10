@@ -1,4 +1,4 @@
-# Music Player
+# Music Player JS
 This workshop is designed to help you create a music player using JavaScript, HTML, and CSS. The music player allows users to play, pause, skip to the next or previous track, and displays the current progress of the song.
 
 $\color{red}{\textsf{This project is a clone from my previous GitHub repository.}} $<a href="https://github.com/PharadolBrown/PortfolioJavascript/tree/main/MusicPlayer" traget="_blank">  this repository</a>
